@@ -18,7 +18,7 @@ function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Home" component={HomePage} />
+        <Stack.Screen name="Motorbike Map" component={HomePage} />
       </Stack.Navigator>
     </NavigationContainer>
   );
